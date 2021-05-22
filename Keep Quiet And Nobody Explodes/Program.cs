@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Keep_Quiet_And_Nobody_Explodes
+namespace KeepQuietAndNobodyExplodes
 {
     class Program
     {
