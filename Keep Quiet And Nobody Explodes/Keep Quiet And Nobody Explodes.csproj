@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Keep_Quiet_And_Nobody_Explodes</RootNamespace>
+    <RootNamespace>KeepQuietAndNobodyExplodes</RootNamespace>
   </PropertyGroup>
 
 </Project>
